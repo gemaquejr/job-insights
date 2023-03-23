@@ -35,3 +35,7 @@ Ativa o ambiente virtual
 ### `python3 -m pip install -r dev-requirements.txt`
 
 Instala as dependências no ambiente virtual.
+
+### `python3 -m pytest`
+
+Executa os testes
